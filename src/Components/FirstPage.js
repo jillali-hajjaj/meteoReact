@@ -20,7 +20,7 @@ export default class FirstPage extends React.Component{
     }
 
     componentDidMount() {
-        fetch(`http://api.openweathermap.org/data/2.5/weather?q=${this.state.villeCherchee}&appid=7610c1faf81edbeddc533ead6a530912`)
+        fetch(`https://api.openweathermap.org/data/2.5/weather?q=${this.state.villeCherchee}&appid=7610c1faf81edbeddc533ead6a530912`)
             // We get the API response and receive data in JSON format...
             .then(response => response.json())
             // ...then we update the users state
