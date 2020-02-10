@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/meteoReact/static/css/main.d1b05096.chunk.css",
+    "main.js": "/meteoReact/static/js/main.fb84fbc9.chunk.js",
+    "main.js.map": "/meteoReact/static/js/main.fb84fbc9.chunk.js.map",
+    "runtime-main.js": "/meteoReact/static/js/runtime-main.b8a60571.js",
+    "runtime-main.js.map": "/meteoReact/static/js/runtime-main.b8a60571.js.map",
+    "static/js/2.5159508f.chunk.js": "/meteoReact/static/js/2.5159508f.chunk.js",
+    "static/js/2.5159508f.chunk.js.map": "/meteoReact/static/js/2.5159508f.chunk.js.map",
+    "index.html": "/meteoReact/index.html",
+    "precache-manifest.f31c80d20069498d1ef8250818195623.js": "/meteoReact/precache-manifest.f31c80d20069498d1ef8250818195623.js",
+    "service-worker.js": "/meteoReact/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/meteoReact/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5159508f.chunk.js.LICENSE.txt": "/meteoReact/static/js/2.5159508f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/meteoReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8a60571.js",
+    "static/js/2.5159508f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fb84fbc9.chunk.js"
+  ]
+}
