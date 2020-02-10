@@ -60,7 +60,7 @@ export default class FirstPage extends React.Component{
                     </Nav>
                     <Form inline onSubmit={this.handleSubmit}>
                         <FormControl type="text" placeholder="Rechercher" className="mr-sm-2" value={this.state.villeCherchee} onChange={this.handleChange}/>
-                        <Button variant="outline-info">Rechercher</Button>
+                        <Button variant="outline-info" onClick={this.handleSubmit}>Rechercher</Button>
                     </Form>
                 </Navbar>
                 {this.state.code !== 404 ?
